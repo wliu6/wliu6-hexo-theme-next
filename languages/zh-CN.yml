@@ -71,9 +71,11 @@ symbol:
   period: "。"
   colon: "："
 reward:
-  donate: 打赏
-  wechatpay: 微信支付
-  alipay: 支付宝
+  donate: 打赏？不需要的！哎~……就是玩儿
+  # wechatpay: 微信支付
+  # alipay: 支付宝
+  wechatpay: " "
+  alipay: " "
   paypal: 贝宝
   bitcoin: 比特币
 follow_me:
